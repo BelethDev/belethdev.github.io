@@ -1,0 +1,23 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Please use the provided public key to ecnrypt your messages when you email me.
+
+Email: belethdev@protonmail.com
+Signal: +14092416330
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEETFA/9NTK7g8pxtbUOycVrkgRDWQFAmTip+YACgkQOycVrkgR
+DWQJPA//Z56FoiF0hmr65r8s+t+X4OtLlN1kMnIV4mYBges02PtAD1sEluDyn/lo
+E+bs/UekkDUpFS7HJaRPSJk7mLXdtwpkCtF5zIel9waALsKXYjzEC8MFF/aI7LCW
+wEg1wPlLm727Gg/+fFDdmHM9AFtjJkSzEbxAd8DsYryomMikr7U2vvBpdNBSH8FL
+qO8im+SoWMFIN4BXA66JQCmak3Ml4Smetjayosp3UHMyI/9tQxVoObXGUuUppmnb
+HDyDFC2xgq8VfItQmKhmpdAabbp6fy+ml2czHI1XgoVtSxEEs0hFb2/FQ1o0WWl9
+68le7jlv37ppH8U04BU+jADT82fddci/zTOxRBm7HlZshNoW33ERmui5pVWluZ7f
+v0jGdaRwUV6KAfMtNcSFPfzoAQJsheOCxetvupDk0mWCm7SRpUI+q+vGBhExAOKq
+OizJgeoqfgWc6LgsiiRpkv7t6ODhmiGsFpckwJXbFSEoXUEyt5EPNsC5WujOlwqP
+FH0YH5M0kJix3D3E+0xJyT8GhnObR4Zwc0WJ4mhyLJpRa8j+ZiTqgkkAtLPXVMMY
+MhPyj1jpLze+s++WqwMipJ5MsyOsfjVfvuzPUiCdZkFJ+ZennnUOxub4FpP30i73
+x7+SY7KMu46MWYVzMkt9P6L1czGtFBGCzixIKFCIWw5OaNBQrsY=
+=3y7N
+-----END PGP SIGNATURE-----
