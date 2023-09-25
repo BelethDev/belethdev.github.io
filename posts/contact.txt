@@ -4,7 +4,7 @@ Hash: SHA512
 Please use the provided public key to ecnrypt your messages when you email me.
 
 Email: belethdev@protonmail.com
-Signal: +14092416330
+Discord: belethdev
 -----BEGIN PGP SIGNATURE-----
 
 iQIzBAEBCgAdFiEETFA/9NTK7g8pxtbUOycVrkgRDWQFAmTip+YACgkQOycVrkgR
